@@ -1,10 +1,5 @@
 # HapticsKit
-
 Simple and expressive haptic feedback manager for iOS and watchOS using Swift.
-
-<p align="center">
-  <img src="./images/HapticsKit.png" />
-</p>
                                                     
 ## ✨ Features
 
